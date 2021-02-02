@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+/* .images{
+    flex-wrap: wrap;
+    flex-grow: inherit;
+} */
+
+.boxes{
+
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: inherit;
+    flex-flow: column;
+    /* flex-shrink: initial; */
+    /* flex-direction: row; */
+}    
+    #boxex1 img{
+        height: 300px;
+        width: 300px;
+        transition:0.5s;    
+        flex-wrap: wrap;
+        /* border: 2px solid red; */
+    }
+    #boxex2 img{
+    /* background-color: rgb(206, 255, 127); */
+    transition:0.5s;    
+    height: 300px; flex-wrap: wrap;
+    width: 300px;
+    /* border: 2px solid red; */
+
+}
+#boxex3 img{
+    /* background-color: rgb(206, 255, 127); */
+    transition:0.5s;    
+    height: 300px; flex-wrap: wrap;
+    width: 300px;
+    /* border: 2px solid red; */
+
+}
+#boxex4 img{
+    /* background-color: rgb(206, 255, 127); */
+    transition:0.5s;    
+    height: 300px; flex-wrap: wrap;
+    width: 300px;
+    /* border: 2px solid red; */
+
+}
+#boxex5 img{
+    /* background-color: rgb(206, 255, 127); */
+    transition:0.5s;    
+    height: 300px; flex-wrap: wrap;
+    width: 300px;
+    /* border: 2px solid red; */
+
+}
+#boxex6 img{
+    /* background-color: rgb(206, 255, 127); */
+    transition:0.5s;    
+    height: 300px; flex-wrap: wrap;
+    width: 300px;
+    /* border: 2px solid red; */
+
+}
+#boxex7 img{
+    /* background-color: rgb(206, 255, 127); */
+    transition:0.5s;    
+    height: 300px; flex-wrap: wrap;
+    width: 300px;
+    /* border: 2px solid red; */
+
+}
+#boxex8 img{
+    /* background-color: rgb(206, 255, 127); */
+    transition:0.5s;    
+    height: 300px; flex-wrap: wrap;
+    width: 300px;
+    /* border: 2px solid red; */
+
+}
+#boxex9 img{
+    /* background-color: rgb(206, 255, 127); */
+    transition:0.5s;    
+    height: 300px; flex-wrap: wrap;
+    width: 300px;
+    /* border: 2px solid red; */
+
+}
+
+
+#boxex1 img:hover{
+    /* transition-duration: 1s; */
+    height: 400px;
+    /* background-color: rgb(30, 228, 162); */
+    width: 400px;
+    border-radius: 23px;
+    /* border: 2px solid red; */
+    /* align-self: center; */
+    transition: 1.4s;
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-basis: auto; */
+}
+#boxex2 img:hover{
+    height: 400px;
+    /* background-color: rgb(29, 65, 53); */
+    width: 400px;
+    display: flex;
+    border-radius: 23px;
+    /* border: 2px solid red; */
+    /* align-self: center; */
+    transition:1.4s;
+    /* flex-basis: auto; */ flex-wrap: wrap;
+}
+#boxex3 img:hover{
+    height: 400px;
+    width: 400px;
+    border-radius: 23px;
+    display: flex;
+    /* align-self: center; */
+    transition:1.4s;
+     flex-wrap: wrap;
+}
+#boxex4 img:hover{
+    height: 400px;
+    display: flex;
+    /* background-color: rgb(69, 0, 148); */
+    width: 400px;
+    border-radius: 23px;
+    flex-wrap: wrap;
+    transition: 1.4s;
+}
+#boxex5 img:hover{
+    height: 400px;
+    display: flex;
+    /* background-color: rgb(69, 0, 148); */
+    width: 400px;
+    border-radius: 23px;
+    flex-wrap: wrap;
+    transition: 1.4s;
+}
+#boxex6 img:hover{
+    height: 400px;
+    display: flex;
+    /* background-color: rgb(69, 0, 148); */
+    width: 400px;
+    border-radius: 23px;
+    flex-wrap: wrap;
+    transition: 1.4s;
+}
+#boxex7 img:hover{
+    height: 400px;
+    display: flex;
+    /* background-color: rgb(69, 0, 148); */
+    width: 400px;
+    border-radius: 23px;
+    flex-wrap: wrap;
+    transition: 1.4s;
+}
+#boxex8 img:hover{
+    height: 400px;
+    display: flex;
+    /* background-color: rgb(69, 0, 148); */
+    width: 400px;
+    border-radius: 23px;
+    flex-wrap: wrap;
+    transition: 1.4s;
+}
+#boxex9 img:hover{
+    height: 400px;
+    display: flex;
+    /* background-color: rgb(69, 0, 148); */
+    width: 400px;
+    border-radius: 23px;
+    flex-wrap: wrap;
+    transition: 1.4s;
+}
